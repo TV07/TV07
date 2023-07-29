@@ -1,4 +1,4 @@
-- Hey, I’m @TV07
+- Hey, I’m @TV07.
 - 
 <!---
 TV07/TV07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
