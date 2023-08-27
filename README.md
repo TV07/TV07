@@ -1,5 +1,5 @@
 - Hey, I’m @TV07.
-- ..
+- Like watching tv
 - .
 <!---
 TV07/TV07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
